@@ -1,0 +1,36 @@
+body{
+   
+}
+p{
+    font-size: 20px;
+}
+.full-wraper{
+    width: 100%;
+}
+.wraper{
+    width: 1100px;
+    margin: 0 auto;
+}
+.logo{
+    width: 140px;
+    padding: 10px 0;
+}
+.Menu{
+    float: right;
+    width: 500px;
+    text-align: right;
+}
+.Menu a{
+    color: rgb(35, 16, 131);
+    padding: 10px
+}
+/*========service =========*/
+.service-item{
+    width: 350px;
+    float: right;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px 0;
+    border: 1px solid #777;
+    margin-left: 10px;
+}
